@@ -4,7 +4,7 @@
 	store: criar uma sessao
 	show: quando queremos listar uma UNICA sessao
 	update: quando queremos alterar alguma sessao
-	destroy: qunado queremos deletar uma sessao
+	destroy: quando queremos deletar uma sessao
 */
 import User from "../models/User";
 
